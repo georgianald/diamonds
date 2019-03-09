@@ -1,0 +1,100 @@
+h1  {
+	font-family: 'Lobster', cursive;
+	color: #AFF9C9;
+	text-align: center;
+	border: solid;
+	border-radius: 5px
+
+}
+h2  {
+	font-family: 'Lobster', cursive;
+	color: #262626;
+	text-align: center;
+}
+
+h3	{
+	font-family: 'PT Serif', serif;
+	color: #AF3B6E;
+	text-align: center;
+
+
+}
+
+p,a {
+	font-family: 'PT Serif', serif;
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	opacity: 0.7;
+}
+body {
+	text-align: center;
+
+}
+span {
+	font-weight: 700;
+}
+body {
+	background: #BBCBCB;
+	margin: 0;
+
+}
+#banner{ 
+	background-image: url("images/queen-elizabeth-diamonds.jpg");
+background-size: cover;
+padding: 155px;
+ }
+ #second{
+ 	background-image: url("images/pile-of-diamonds_large.jpg");
+background-size: cover;
+padding: 100px;
+font-family: 'Lobster', cursive;
+ }
+
+ #second a {
+font-family: 'Lobster', cursive;
+font-size: 25px;
+ }
+
+ .cards{
+ 	padding: 50px;
+ 	color: red;
+
+ }
+
+ #marriage {
+ 	background-image: url("images/Proposal-Feature-Image.jpg");
+ 	padding: 289px;
+ 	background-size: cover;
+}
+
+#marriage p {
+		font-family: 'Lobster', cursive;
+		color: yellow;
+}
+
+#end {
+	background-image: url("images/couples.jpg");
+	padding: 300px;
+	background-size: cover;
+}
+#footer {
+	background-color: #424651;
+	padding: 20px;
+	font-size: 20px;
+	color: lightgrey;
+}
+
+ul {
+	margin-top: 5px; 
+}
+
+
+#footer p {
+	font-size: 10px;
+}
